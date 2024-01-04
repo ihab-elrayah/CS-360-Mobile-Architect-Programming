@@ -5,6 +5,10 @@ The PlanPointPro is an Event Tracking App, a sophisticated solution designed to 
 
 🌐 **APP**: Coming Soon...😊
 
+![IMG_1227](https://github.com/ihab-elrayah/PlanPointPro-App/assets/127975319/3d0d95fc-758e-4e4d-bacc-dabe423e321e)
+
+
+
 ## ⚙️ Technologies Used
 
 - **Java**: Robust backend development
