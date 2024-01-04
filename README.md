@@ -1,18 +1,18 @@
-# PlanPointPro
+# PlanPointPro 🎯
 
 The PlanPointPro is an Event Tracking App, a sophisticated solution designed to streamline event management and participation. It simplifies the process of tracking and engaging with various events, leveraging modern technology to enhance user experience. PlanPointPro was created during my Final Project in CS-360-Mobile-Architect-Programming course and now  expaned to an APP! woohoo!
 
 
 🌐 **APP**: Coming Soon...😊
 
-## 🛠 Technologies Used
+## ⚙️ Technologies Used
 
 - **Java**: Robust backend development
 - **React**: Dynamic, user-friendly front-end interfaces
 - **Android Studio**: Primary development environment for Android application
 - **MongoDB**: Flexible, scalable database for storing event data
 
-## 🌟 Features
+## 🥁 Features
 
 - **Intuitive Event Management**: Easy creation, editing, and tracking of events.
 - **Real-Time Notifications**: Stay updated with event changes and announcements.
@@ -22,7 +22,7 @@ The PlanPointPro is an Event Tracking App, a sophisticated solution designed to 
 - **Social Integration**: Share and promote events on various social platforms(On Its Way!).
 
 
-## 🤝 Contribute to PlanPointPro
+## 🗽 Contribute to PlanPointPro
 
 - We welcome contributions to make the PlanPointPro even better! Whether it's improving code, suggesting new features, or reporting bugs, your input is valuable.
 
