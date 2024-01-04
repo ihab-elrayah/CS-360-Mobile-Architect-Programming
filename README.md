@@ -1,9 +1,9 @@
-# Event Tracking App
+# PlanPointPro
 
-The Event Tracking App is an expaned version of my CS-360-Mobile-Architect-Programming Final Project, a sophisticated solution designed to streamline event management and participation. It simplifies the process of tracking and engaging with various events, leveraging modern technology to enhance user experience.
+The PlanPointPro is an Event Tracking App, a sophisticated solution designed to streamline event management and participation. It simplifies the process of tracking and engaging with various events, leveraging modern technology to enhance user experience. PlanPointPro was created during my Final Project in CS-360-Mobile-Architect-Programming course and now  expaned to an APP! woohoo!
 
 
-🌐 **Website**: Coming Soon...😊
+🌐 **APP**: Coming Soon...😊
 
 ## 🛠 Technologies Used
 
@@ -22,9 +22,9 @@ The Event Tracking App is an expaned version of my CS-360-Mobile-Architect-Progr
 - **Social Integration**: Share and promote events on various social platforms(On Its Way!).
 
 
-## 🤝 Contribute to MovieSwiper
+## 🤝 Contribute to PlanPointPro
 
-- We welcome contributions to make the Event Tracking App even better! Whether it's improving code, suggesting new features, or reporting bugs, your input is valuable.
+- We welcome contributions to make the PlanPointPro even better! Whether it's improving code, suggesting new features, or reporting bugs, your input is valuable.
 
 - **How to Contribute**:
 - Fork the Repository: Start by forking the GitHub repository.
@@ -34,9 +34,4 @@ The Event Tracking App is an expaned version of my CS-360-Mobile-Architect-Progr
 - Push to the Branch: Push your changes to your fork.
 - Submit a Pull Request: Open a pull request for discussion and review
 
-- **Contact Me**: To start contributing, visit my GitHub repository or reach out to me through email: ihab.elrayah6@gmail.com. We appreciate your interest in MovieSwiper and look forward to your valuable contributions!
-
-
-
-
-**Join Our Cinematic Journey**:
+- **Contact Me**: To start contributing, visit my GitHub repository or reach out to me through email: ihab.elrayah6@gmail.com. We appreciate your interest in PlanPointPro and look forward to your valuable contributions!
