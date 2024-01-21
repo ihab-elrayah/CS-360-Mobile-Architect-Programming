@@ -2,7 +2,7 @@
 
 The PlanPointPro is an Event Tracking App, a sophisticated solution designed to streamline event management and participation. It simplifies the process of tracking and engaging with various events, leveraging modern technology to enhance user experience. PlanPointPro was created during my Final Project in CS-360-Mobile-Architect-Programming course and now expaning to an APP! woohoo!   
 
-   
+    
 🌐 **APP**: Coming Soon...😊 
   
 ![IMG_1227](https://github.com/ihab-elrayah/PlanPointPro-App/assets/127975319/3d0d95fc-758e-4e4d-bacc-dabe423e321e)
