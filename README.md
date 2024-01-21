@@ -12,7 +12,7 @@ The PlanPointPro is an Event Tracking App, a sophisticated solution designed to 
 ## ⚙️ Technologies Used
 
 - **Java**: Robust backend development
-- **React**: Dynamic, user-friendly front-end interfaces
+- **React Native**: Dynamic, user-friendly front-end interfaces
 - **Android Studio**: Primary development environment for Android application
 - **MySQL**: Flexible, scalable database for storing event data
 
